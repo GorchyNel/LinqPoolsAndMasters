@@ -1,0 +1,6 @@
+c:\users\админ\documents\visual studio 2015\Projects\Курсовая Гугиев\Курсовая Гугиев\bin\Debug\Курсовая Гугиев.exe.config
+C:\Users\админ\Documents\Visual Studio 2015\Projects\Курсовая Гугиев\Курсовая Гугиев\bin\Debug\Курсовая Гугиев.exe
+C:\Users\админ\Documents\Visual Studio 2015\Projects\Курсовая Гугиев\Курсовая Гугиев\bin\Debug\Курсовая Гугиев.pdb
+C:\Users\админ\Documents\Visual Studio 2015\Projects\Курсовая Гугиев\Курсовая Гугиев\obj\Debug\Курсовая Гугиев.csprojResolveAssemblyReference.cache
+C:\Users\админ\Documents\Visual Studio 2015\Projects\Курсовая Гугиев\Курсовая Гугиев\obj\Debug\Курсовая Гугиев.exe
+C:\Users\админ\Documents\Visual Studio 2015\Projects\Курсовая Гугиев\Курсовая Гугиев\obj\Debug\Курсовая Гугиев.pdb
